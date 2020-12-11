@@ -524,7 +524,8 @@ h6,
 .text-sm {
 	font-size: 18px;
 	line-height: 27px;
-	letter-spacing: -0.1px
+	letter-spacing: -0.1px;
+	margin-top: 8px;
 }
 
 .text-xs {
