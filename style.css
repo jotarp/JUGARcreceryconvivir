@@ -297,7 +297,7 @@ img {
 	height: auto;
 	max-width: 100%;
 	vertical-align: middle;
-	margin-right:5%;
+	margin-right:22px;
 }
 
 figure {
@@ -561,6 +561,15 @@ h6,
 p {
 	margin-top: 5px;
 	margin-bottom: 2px;
+}
+
+p.pinline {
+text-indent: 82px;
+margin-top: -10px;
+}
+
+.negrita {
+font-size: 140%;
 }
 
 dfn,
