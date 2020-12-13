@@ -570,10 +570,12 @@ p {
 p.pinline {
 text-indent: 82px;
 margin-top: -10px;
+font-size:18px;
 }
 
 .negrita {
-font-size: 140%;
+font-size: 20px;
+font-weight: bold;
 }
 
 dfn,
